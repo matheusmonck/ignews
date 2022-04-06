@@ -1,0 +1,21 @@
+{
+  "id": "a99b8517-0c0a-4e91-b95d-88196d2ef312",
+  "uid": "ratione-aut-ab",
+  "type": "my-custom-type",
+  "data": {
+    "Title": [
+      {
+        "type": "paragraph",
+        "text": "Dolor labore nulla cillum adipisicing velit cupidatat ad reprehenderit. Do adipisicing laboris qui nostrud irure velit.",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Amet incididunt est ut fugiat. Incididunt proident non consectetur aliqua culpa est elit qui veniam dolore cupidatat.",
+        "spans": []
+      }
+    ]
+  }
+}
